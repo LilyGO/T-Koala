@@ -22,9 +22,9 @@ ESP32 Bluetooth name is set by SerialBT.begin()
 
 ---
 
-### Uint 2 [wifi](https://github.com/LilyGO/T-Koala/tree/master/Module_test/Wifi_test_demo)
+### Uint 2 [Wifi](https://github.com/LilyGO/T-Koala/tree/master/Module_test/Wifi_test_demo)
 
-#### wifi_scan
+#### Wifi_scan
 Wifi scan serial port information display can connect wifi name and signal strength
 
 ```c
@@ -38,7 +38,7 @@ Wifi scan serial port information display can connect wifi name and signal stren
     Serial.println("Setup done")
 ```
 
-#### wifi_web_sever
+#### Wifi_web_sever
 
 By connecting to WiFi, you can generate a web page.
 
