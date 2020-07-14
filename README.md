@@ -1,6 +1,6 @@
 # T-Koala
 
-![image1](https://github.com/LilyGO/T-Koala/blob/master/image/T-Koala.jpg)
+![image1](https://github.com/LilyGO/T-Koala/blob/master/image/T-Koala2.jpg)
 
 ![image2](https://github.com/LilyGO/T-Koala/blob/master/image/T-Koalatypec.jpg)
 
